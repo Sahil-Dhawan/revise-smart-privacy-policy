@@ -8,7 +8,7 @@ The Skills obtains the information you provide when you download and register th
 
 ## Automatically Collected Information
 
-In addition, the Skills may collect certain information automatically as part of normal operation within the context of the Amazon Alexa or Google Calendar API environment, including, a unique user ID, accessToken .
+In addition, the Skill may collect certain information automatically as part of normal operation within the context of the Amazon Alexa or Google Calendar API environment, including, a unique user ID, accessToken .
 
 ## Data Collection
 
