@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Sahil-Dhawan/revise-smart-privacy-policy/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Welcome to Revise Smart privacy policy
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# User Provided Information
 
-- Bulleted
-- List
+The Skills obtain the information you provide when you download and register the Skills through the Amazon Alexa app to access your google calendar for creating an event.
 
-1. Numbered
-2. List
+# Automatically Collected Information
 
-**Bold** and _Italic_ and `Code` text
+In addition, the Skills may collect certain information automatically as part of normal operation within the context of the Amazon Alexa or Google Calendar API environment, including, but not limited to, your hardware device unique ID, a unique user ID, accessToken .
 
-[Link](url) and ![Image](src)
-```
+# Data Collection
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+The data collected includes the user provided data like the topic and subject name and date and time of studying the said topic. This may also include user's provided customized time for revision and the gap between the revision reminders.
+All this information is stored only for the purpose of providing user skill functionality, and is not shared or accessed by any other organisation or unauthorised personnel.  
 
-### Jekyll Themes
+# Children
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Sahil-Dhawan/revise-smart-privacy-policy/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The skill isn't directed for children below 13 years of age.The skill doesn't include any advertising neither does it make any products, content or services available for purchase. It does not collect any personal information from end user.It does not contain any content unsuitable for any age group. 
+Still it is recommended that if a child is using any of these Skills, this is only done with adult supervision.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If there are any questions regarding this privacy policy, you may contact us using the information below.
+
+email : excelsior.sd@gmail.com
