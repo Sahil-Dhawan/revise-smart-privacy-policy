@@ -4,11 +4,11 @@
 
 ## User Provided Information
 
-The Skills obtain the information you provide when you download and register the Skills through the Amazon Alexa app to access your google calendar for creating an event.
+The Skills obtains the information you provide when you download and register the Skills through the Amazon Alexa app to access your google calendar for creating an event.
 
 ## Automatically Collected Information
 
-In addition, the Skills may collect certain information automatically as part of normal operation within the context of the Amazon Alexa or Google Calendar API environment, including, but not limited to, your hardware device unique ID, a unique user ID, accessToken .
+In addition, the Skills may collect certain information automatically as part of normal operation within the context of the Amazon Alexa or Google Calendar API environment, including, a unique user ID, accessToken .
 
 ## Data Collection
 
